@@ -31,6 +31,10 @@
   font-weight: 700;
 }
 
+.home__name--last:hover {
+  color: lightgrey;
+}
+
 body {
   background: #272727;
   color: white;
